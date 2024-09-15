@@ -1,0 +1,10 @@
+/* styles/variables.css */
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --text-color: #333;
+  --background-color: #f5f5f5;
+  --button-hover-color: #0056b3;
+  --border-radius: 4px;
+  --font-family: 'Arial, sans-serif';
+}
